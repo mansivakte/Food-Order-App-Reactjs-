@@ -3,6 +3,9 @@
     width: 90%;
     margin: 2rem auto;
     animation: meals-appear 1s ease-out forwards;
+    background-color: #FEF9E7;
+    border-radius: 25px;
+    padding: 0 1%;
   }
   
   .meals ul {
