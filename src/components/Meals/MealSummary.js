@@ -5,7 +5,7 @@ const MealSummary = () => {
     <section className={classes.summary}>
       <h2> Order Indian Food Online for home delivery</h2>
       <p>
-        Oeder any of your favorite indian meal from our broad selection of
+        Order any of your favorite indian meal from our broad selection of
         available meals and enjoy a delicious lunch or dinner at home.
       </p>
       <p>
