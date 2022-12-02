@@ -1,8 +1,8 @@
+import { Fragment } from "react";
 import MealSummary from "./MealSummary";
 import AvailableMeals from "./AvailableMeals";
-import { Fragment } from "react";
 
-const Meal = () => {
+const Meals = () => {
   return (
     <Fragment>
       <MealSummary />
@@ -10,4 +10,5 @@ const Meal = () => {
     </Fragment>
   );
 };
-export default Meal;
+
+export default Meals;
